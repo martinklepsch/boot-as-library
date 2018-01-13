@@ -1,0 +1,5 @@
+{:deps {boot/core   {:mvn/version "2.7.2"}
+        boot/base   {:mvn/version "2.7.2"}
+        boot/worker {:mvn/version "2.7.2"}
+        boot/pod    {:mvn/version "2.7.2"}
+        boot/boot   {:mvn/version "2.7.2"}}}
